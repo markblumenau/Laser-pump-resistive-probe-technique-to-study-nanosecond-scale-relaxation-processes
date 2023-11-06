@@ -1,6 +1,5 @@
 
-# Laser-pump-resistive-probe technique to study nanosecond-scale 
-relaxation processes
+# Laser-pump-resistive-probe technique to study nanosecond-scale relaxation processes
 
 Python code for the method proposed in the article is located here.
 
