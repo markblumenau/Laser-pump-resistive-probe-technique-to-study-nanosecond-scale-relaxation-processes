@@ -31,4 +31,8 @@ acquisition.ipynb:
 
 For support, email miblumenau@edu.hse.ru or use Telegram @markblumenau.
 
+## Cite code only
+To cite only the code, use
+[![DOI](https://zenodo.org/badge/713506467.svg)](https://zenodo.org/doi/10.5281/zenodo.10696618)
+
 
